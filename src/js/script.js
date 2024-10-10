@@ -68,7 +68,7 @@ const keyDownMapper = {
     "=": () => handleMouseDown(keys[20]),
     "]": () => handleMouseDown(keys[21]),
     "Backspace": () => handleMouseDown(keys[22]),
-    "\\": () => handleMouseDown(keys[23]),
+    "Enter": () => handleMouseDown(keys[23]),
 }
 
 const keyUpMapper = {
@@ -95,7 +95,7 @@ const keyUpMapper = {
     "=": () => handleMouseUp(keys[20]),
     "]": () => handleMouseUp(keys[21]),
     "Backspace": () => handleMouseUp(keys[22]),
-    "\\": () => handleMouseUp(keys[23]),
+    "Enter": () => handleMouseUp(keys[23]),
 }
 
 document.addEventListener('keydown', (event) => {
