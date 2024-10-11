@@ -19,7 +19,7 @@ This project is an interactive Digital Piano with 24 notes, which allows the use
 
 **__Free Formatter__* é um site útil para consultar a lista completa de entidades HTML, fornecendo tanto seus números quanto seus nomes. Ele também inclui os caracteres ASCII que podem ser representados em HTML, facilitando a codificação e exibição correta de símbolos especiais em páginas web.
 
-**__Free Formatte__* is a useful site for consulting the complete list of HTML entities, providing both their numbers and their names. It also includes the ASCII characters that can be represented in HTML, making it easier to encode and correctly display special symbols on web pages.
+**__Free Formatter__* is a useful site for consulting the complete list of HTML entities, providing both their numbers and their names. It also includes the ASCII characters that can be represented in HTML, making it easier to encode and correctly display special symbols on web pages.
 
 ## 🖥 | Previews
 
